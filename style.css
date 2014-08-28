@@ -1,0 +1,12 @@
+*
+{
+
+margin:0px;
+
+}
+
+
+
+.banner { position: relative; overflow: auto; }
+.banner li { list-style: none; }
+.banner ul li { float: left; }
